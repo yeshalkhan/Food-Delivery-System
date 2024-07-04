@@ -1,7 +1,5 @@
 # Food Express Database System
 
-This repository contains all the necessary SQL scripts and documentation to set up and manage the database for the Food Express platform, which is designed for seamless food ordering, processing, and delivery services.
-
 ## Introduction
 
 Food Express is a database-driven platform that supports the operations of food ordering, processing, and delivery services. It is built on a robust database architecture designed to store, manage, and retrieve various types of information efficiently.
